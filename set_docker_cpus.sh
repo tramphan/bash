@@ -1,1 +1,1 @@
-docker update --cpus 0.3 `(docker ps -q)`
+docker update --cpus 1 `(docker ps -q)`
